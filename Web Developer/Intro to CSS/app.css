@@ -1,0 +1,14 @@
+h1 {
+  color: #FF88BA;
+
+  border: 5px solid rgb(255, 100, 80);
+}
+h4 {
+  color: rgba(150, 250, 150, 0.5);
+  background: rgb(255, 100, 100);
+}
+body {
+  background: url(https://static.wixstatic.com/media/d89912_296eb4f74fa8490aa41f5e97cdab41a4~mv2_d_5616_3744_s_4_2.jpg/v1/fill/w_784,h_523,al_c,q_90,usm_0.66_1.00_0.01/d89912_296eb4f74fa8490aa41f5e97cdab41a4~mv2_d_5616_3744_s_4_2.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
